@@ -1,0 +1,12 @@
+#+TITLE: CDN
+
+* jsDeliver
+  + css
+  + javascript
+  + logo
+  + role
+    + Luigi
+    + Mario
+    + Motry
+    + R&M
+    + Rick
